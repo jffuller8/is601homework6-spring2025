@@ -81,4 +81,4 @@ def main():
         logger.info("Calculator program ended")
 
 if __name__ == "__main__":
-    main()
+    main()# Comment added for testing GitHub Actions
